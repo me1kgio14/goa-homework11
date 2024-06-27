@@ -1,0 +1,112 @@
+#harry-potter{width: 200;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+
+
+#about{text-align: center;
+color: #F6291E;
+
+}
+
+
+#first{background-color: #0031E7;
+
+
+}
+
+.div{display: flex;
+
+}
+
+.chars{display: block;
+margin-left: 150;
+margin-right: 150;
+width: 100;
+height: 40;
+background-color:#2899CA ;
+}
+
+
+
+
+#test{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100;
+    height: 40;
+    background-color:#2899CA ;
+    }
+
+
+
+
+#go-back{background-color: rgb(192, 19, 19);
+
+
+
+
+
+}
+
+
+
+#char-body{background-color: aqua;
+
+
+
+}
+
+
+
+#h1char{text-align: center;
+
+
+}
+
+.test{display: flex;
+
+}
+
+.char{
+
+object-fit: cover;
+margin-left: 200px;
+margin-right: 200px;
+width: 200;
+height: 300;
+}
+
+.test2{display: flex;
+
+
+
+}
+.names{
+
+object-fit: cover;
+margin-left: 200px;
+margin-right: 200px;
+    
+
+
+}
+#trailer{
+background-color: #073858
+
+}
+
+#h1-trailer{text-align: center;
+
+}
+
+
+
+#dum-vs-lor{
+display: block;
+margin-right:auto ;
+margin-left: auto;
+
+}

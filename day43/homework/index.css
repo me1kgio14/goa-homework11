@@ -1,0 +1,29 @@
+h1{color: #FAD53A;
+text-align: center;
+
+}
+
+
+body{background-color: rgb(186, 113, 255);
+
+
+}
+button{
+    background-color: #346C99;
+    
+    display: block;
+    margin: auto;
+    width: 150; 
+    height: 40;
+    font-size: large;
+
+
+}
+
+
+
+img{width: 250;
+    background-color: #FAD53A;
+    margin-top: auto;
+    
+}
