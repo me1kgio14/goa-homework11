@@ -1,0 +1,15 @@
+#perr{
+    border: 4px solid red;
+}
+
+#child{
+    padding: 30px 15px;
+    width: 400px;
+    height: 200px;
+    border: 5px solid red;
+    background-color: yellow;
+    margin-left: 15px;
+    margin-top: 50px;
+    margin-right:50px ;
+    margin-bottom: 50px;
+}

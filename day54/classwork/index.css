@@ -1,0 +1,17 @@
+
+button{
+background-color: seagreen;
+color: green;
+}
+
+
+button:hover{
+background-color: brown;
+color: brown;
+}
+
+
+button:active{
+background-color: blueviolet;
+color: blueviolet;
+}
